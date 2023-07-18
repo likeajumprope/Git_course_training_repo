@@ -1,1 +1,1 @@
-My favotite animal is a Wombat
+My favorite animal is a Wombat
