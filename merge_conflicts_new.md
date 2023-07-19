@@ -1,3 +1,4 @@
 Practicing merge conflicts
 
-creating a merge conflict.
+resolving a merge conflict.
+
