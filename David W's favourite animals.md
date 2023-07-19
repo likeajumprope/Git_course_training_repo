@@ -3,3 +3,4 @@
 2. Binturongs
 3. Numbats
 4. Magpies, even if they're sneaky little beggars.
+5. Kittens
