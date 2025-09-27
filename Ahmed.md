@@ -1,2 +1,2 @@
-My favorite animal is an elephant.
-Ho there!
+My favorite animal is a dog.
+Woof Woof!
